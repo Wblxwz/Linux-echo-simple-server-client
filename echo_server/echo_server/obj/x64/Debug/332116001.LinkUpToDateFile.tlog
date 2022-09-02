@@ -1,0 +1,1 @@
+g++ -o "/root/projects/TinyWeb/bin/x64/Debug/TinyWeb.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/projects/TinyWeb/obj/x64/Debug/echo_server.o
